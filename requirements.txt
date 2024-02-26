@@ -1,0 +1,18 @@
+pandas
+numpy
+seaborn
+matplotlib
+pytz
+zipp
+six
+pillow
+pyparsing
+packaging
+kiwisolver
+fonttools
+python-dateutil
+importlib-resources
+contourpy
+
+
+-e .
